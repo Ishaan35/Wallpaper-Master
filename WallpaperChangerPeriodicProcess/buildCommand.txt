@@ -1,0 +1,1 @@
+g++ -o WallpaperChanger.exe main.cpp src/*.cpp -I include -lShlwapi
