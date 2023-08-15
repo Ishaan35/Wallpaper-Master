@@ -54,7 +54,7 @@ std::string getLogsFilePath(){
     GetModuleFileNameA(NULL, szPath, MAX_PATH * 100); //get file path of exe
     PathRemoveFileSpecA(szPath); //remove exe file name
     std::string folderPath = szPath;
-    std::string filePath = folderPath + "\\" + "logs.txt"; //append the file name to the folder path
+    std::string filePath = folderPath + "\\" + "res" + "\\" + "logs.txt"; //append the file name to the folder path
 
     return filePath;
 }
@@ -65,7 +65,7 @@ std::string getPidFilePath(){
     GetModuleFileNameA(NULL, szPath, MAX_PATH * 100); //get file path of exe
     PathRemoveFileSpecA(szPath); //remove exe file name
     std::string folderPath = szPath;
-    std::string filePath = folderPath + "\\" + "pid.txt"; //append the file name to the folder path
+    std::string filePath = folderPath + "\\" + "res" + "\\" + "pid.txt"; //append the file name to the folder path
 
     return filePath;
 }
@@ -130,7 +130,7 @@ int closeAllExistingProcesses(){
         
     }
     std::ofstream ofs;
-    ofs.open("pid.txt", std::ofstream::out | std::ofstream::trunc);
+    ofs.open(getPidFilePath(), std::ofstream::out | std::ofstream::trunc);
     ofs.close();
     inputFile.close();
     std::cout << "Cleared old processes" << std::endl;
