@@ -24,21 +24,18 @@ int main(){
     GetModuleFileNameA(NULL, szPath, MAX_PATH * 100); //get file path of exe
     PathRemoveFileSpecA(szPath); //remove exe file name
     std::string folderPath = szPath;
-    std::string filePath = folderPath + "\\" + "fileList.txt"; //append the file name to the folder path
+    std::string filePath = folderPath + "\\config\\" + "fileList.txt"; //append the file name to the folder path
 
 
     //open filename list file
     std::ifstream inputFile(filePath);
     if(!inputFile.is_open()){
         //std::cerr << "Error: \"fileList.txt\" was not found!";
-        while(true){
             WallpaperChanger::ChangeWallpaper("C:\\Users\\Ishaan\\Pictures\\Saved Pictures\\Wallpapers\\2d31d5b4b142e2aef348b9f94dd1cd34095e97e0a9b1379fd73f93b70852693c.jpg");
             std::this_thread::sleep_for(std::chrono::seconds(2));
-        }
         inputFile.close();
         return 1;
     }
-    inputFile.close();
 
     //load file names
     std::vector<std::string> fileList;
@@ -57,5 +54,13 @@ int main(){
         // Sleep for 2 seconds
         std::this_thread::sleep_for(std::chrono::seconds(2));
     }
+
+
+
+
+
+
+
+    inputFile.close();
     return 0;
 }
