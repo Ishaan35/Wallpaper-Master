@@ -1,4 +1,12 @@
 Closing...
 Successfully added pid to deletion queue
+Successfully added pid to deletion queue
+Successfully added pid to deletion queue
+Successfully added pid to deletion queue
+Successfully added pid to deletion queue
+Failed to open process. Error code: 87
+Failed to open process. Error code: 87
+Failed to open process. Error code: 87
+Failed to open process. Error code: 87
 Failed to open process. Error code: 87
 Cleared old processes
