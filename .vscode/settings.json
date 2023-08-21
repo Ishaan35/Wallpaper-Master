@@ -66,6 +66,12 @@
         "xutility": "cpp",
         "filesystem": "cpp",
         "list": "cpp",
-        "codecvt": "cpp"
+        "codecvt": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "numeric": "cpp",
+        "unordered_map": "cpp",
+        "valarray": "cpp",
+        "xhash": "cpp"
     }
 }
