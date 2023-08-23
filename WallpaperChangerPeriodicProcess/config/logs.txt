@@ -1,65 +1,99 @@
 ========================================================================================================
-Failed to open configuration file! Writing now!
-Writing default data to json file
-Setting default values for config vars
+Successfully set config variables from json file
 3
-Successfully changed Wallpaper to: 
+waiting for previus progress
+-38
+1692819803238
+1692819842226
 Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
 Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Adventdalen, Norway 1920x1080.jpg
-JSON error: [json.exception.type_error.316] invalid UTF-8 byte at index 66: 0x2C
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Plouzané, France 1920x1080.jpg
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Adventdalen, Norway 1920x1080.jpg
-JSON error: [json.exception.type_error.316] invalid UTF-8 byte at index 66: 0x2C
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Plouzané, France 1920x1080.jpg
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Adventdalen, Norway 1920x1080.jpg
-JSON error: [json.exception.type_error.316] invalid UTF-8 byte at index 66: 0x2C
 ========================================================================================================
-Failed to load configuration data as json. Loading default configuration
-Writing default data to json file
-Setting default values for config vars
+Successfully set config variables from json file
 3
-Successfully changed Wallpaper to: 
+waiting for previus progress
+7
+1692819862490
+1692819854692
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Adventdalen, Norway 1920x1080.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
 ========================================================================================================
-Failed to open configuration file! Writing now!
-Writing default data to json file
-Setting default values for config vars
+Successfully set config variables from json file
+776
+waiting for previus progress
+-6
+1692819871991
+1692819878627
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\00236cd3537859c0b7ee96d14a73d2d53fd48230bab2d1face2f7a9630448cce.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\020a1d1ebd2c0a2316ac0ce6176e9d36156a86397430ab1a98e5508277f1bb40.jpg
+========================================================================================================
+Successfully set config variables from json file
+776
+waiting for previus progress
+6
+1692819898943
+1692819892031
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\020a1d1ebd2c0a2316ac0ce6176e9d36156a86397430ab1a98e5508277f1bb40.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\00236cd3537859c0b7ee96d14a73d2d53fd48230bab2d1face2f7a9630448cce.jpg
+========================================================================================================
+Successfully set config variables from json file
+776
+waiting for previus progress
+-14
+1692819908334
+1692819922677
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\5f8e9756d4605e434dea465ff0bccf6b70e50c9ad4fedaea0d7b51c66adc0bd0.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\3840x2400 Wallpaper sea_ surf_ sunset_ stones.jpg
+========================================================================================================
+Successfully set config variables from json file
+776
+waiting for previus progress
+6
+1692819943060
+1692819936901
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\3840x2400 Wallpaper sea_ surf_ sunset_ stones.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\3840x2400 Wallpaper lake_ sunset_ trees_ mountains_ lake wakatipu_ new zealand.jpg
+========================================================================================================
+Successfully set config variables from json file
+776
+waiting for previus progress
+3
+1692819953267
+1692819949271
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\3840x2400 Wallpaper lake_ sunset_ trees_ mountains_ lake wakatipu_ new zealand.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\Maasai Mara National Reserve, Kenya 1920x1080.jpg
+========================================================================================================
+Successfully set config variables from json file
+776
+waiting for previus progress
+6
+1692819962529
+1692819956048
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\Maasai Mara National Reserve, Kenya 1920x1080.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\Del Toro Lake, Chile 1920x1080.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\521578cc01dfd5782934fda60dd6f6296576e974c428a45a7b45e0e8d483e8ac.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\Red Rock-Secret Mountain Wilderness 1920x1080.jpg
+========================================================================================================
+Successfully set config variables from json file
+776
+waiting for previous progress
+-39
+1692819992661
+1692820031829
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\Julian Alps, Slovenia 1920x1080.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\d423d6576ee12c6b620dbd095696d8428536243e3b9a2892855575b587b08509.JPG
+========================================================================================================
+Successfully set config variables from json file
+776
+waiting for previous progress
+6
+1692820052129
+1692820046090
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\39644.jpg
+========================================================================================================
+Successfully set config variables from json file
+776
+waiting for previous progress
 2
-Successfully changed Wallpaper to: 
-========================================================================================================
-Failed to open configuration file! Writing now!
-Writing default data to json file
-Setting default values for config vars
-2
-Successfully changed Wallpaper to: 
-========================================================================================================
-Failed to open configuration file! Writing now!
-Writing default data to json file
-Setting default values for config vars
-2
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Adventdalen, Norway 1920x1080.jpg
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
-========================================================================================================
-Failed to open configuration file! Writing now!
-Writing default data to json file
-Setting default values for config vars
-3
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Adventdalen, Norway 1920x1080.jpg
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Plouzané, France 1920x1080.jpg
-JSON error: [json.exception.type_error.316] invalid UTF-8 byte at index 66: 0x2C
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Adventdalen, Norway 1920x1080.jpg
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Plouzané, France 1920x1080.jpg
-JSON error: [json.exception.type_error.316] invalid UTF-8 byte at index 66: 0x2C
-========================================================================================================
-Failed to load configuration data as json. Loading default configuration
-Writing default data to json file
-Setting default values for config vars
-3
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Adventdalen, Norway 1920x1080.jpg
-Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Plouzané, France 1920x1080.jpg
-JSON error: [json.exception.type_error.316] invalid UTF-8 byte at index 66: 0x2C
+1692820062224
+1692820059702
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\Wallpapers\91b0e8705d48aa0f4e544c0887369f819f9de58839d91e6b7c5af571e8b578d1.jpg

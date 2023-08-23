@@ -53,7 +53,7 @@ int main(){
     //load file names
     std::vector<std::string> imageListFileVector;
     int fileListSize = PopulateVectorWithAllImagesFromFolderList(imageListFileVector);
-    //ShuffleVector(imageListFileVector);
+    ShuffleVector(imageListFileVector);
     if(fileListSize <= 0)
         return 1;
 
@@ -143,7 +143,7 @@ void loadConfigAndProgress(std::string &INITIAL_WALLPAPER_NAME, int &WALLPAPER_C
         INITIAL_WALLPAPER_NAME = config_file_json_data.at("INITIAL_WALLPAPER_NAME");
         WALLPAPER_CHANGE_WAIT_DURATION = config_file_json_data.at("WALLPAPER_CHANGE_WAIT_DURATION");
         NEXT_WALLPAPER_CHANGE_DUE = config_file_json_data.at("NEXT_WALLPAPER_CHANGE_DUE");
-        std::cout << "Successfully set vonfig variables from json file" << std::endl;
+        std::cout << "Successfully set config variables from json file" << std::endl;
     }
     catch(nlohmann::json::exception& e){
         std::cout << "Failed to parse configuration data! Setting default configuration" << std::endl;
@@ -245,8 +245,8 @@ void continuouslyChangeWallpaper(std::string &INITIAL_WALLPAPER_NAME, std::vecto
 
     //the case of where the file list has changed and the Initial_wallpaper we were on before any system shutdown is taken care of since the file list can only change through the GUI app. and knowing that we are changing the file list from there only, we can make sure that the initial_wallpaper_name property is an empty string, and all other properties are updated properly
     //also check if prior progress config was pointing to a valid image file and the index matches
-    if(NEXT_WALLPAPER_CHANGE_DUE > 0 && INITIAL_WALLPAPER_NAME == ""){
-        std::cout << "waiting for previus progress" << std::endl;
+    if(NEXT_WALLPAPER_CHANGE_DUE > 0 && INITIAL_WALLPAPER_NAME != ""){
+        std::cout << "waiting for previous progress" << std::endl;
         //wait out that initial wallpaper and then go onto next one
         
         long long currMillis = currentMillis();
@@ -256,7 +256,7 @@ void continuouslyChangeWallpaper(std::string &INITIAL_WALLPAPER_NAME, std::vecto
         std::cout << currMillis << std::endl;
 
         if(waitSeconds > 0){
-            WallpaperChanger::ChangeWallpaper(INITIAL_WALLPAPER_NAME);
+            WallpaperChanger::ChangeWallpaper(INITIAL_WALLPAPER_NAME); 
             std::this_thread::sleep_for(std::chrono::seconds(waitSeconds));
         }
         //if waitseconds was negative, it means that the wallpaper was overdue to change. the program started up dgain after the time the wallpaper was supposed to change. in that case, the old wallpaper will be skipped entirely as this if statement above will return false. Since the index of the wallpaper will be incremented no matter what, the while loop ahead will take care of the following wallpapers.
