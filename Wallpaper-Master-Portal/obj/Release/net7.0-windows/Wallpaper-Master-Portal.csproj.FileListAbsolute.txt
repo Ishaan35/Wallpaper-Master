@@ -1,0 +1,16 @@
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\bin\Release\net7.0-windows\Wallpaper-Master-Portal.exe
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\bin\Release\net7.0-windows\Wallpaper-Master-Portal.deps.json
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\bin\Release\net7.0-windows\Wallpaper-Master-Portal.runtimeconfig.json
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\bin\Release\net7.0-windows\Wallpaper-Master-Portal.dll
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\bin\Release\net7.0-windows\Wallpaper-Master-Portal.pdb
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\obj\Release\net7.0-windows\Wallpaper_Master_Portal.Form1.resources
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\obj\Release\net7.0-windows\Wallpaper-Master-Portal.csproj.GenerateResource.cache
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\obj\Release\net7.0-windows\Wallpaper-Master-Portal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\obj\Release\net7.0-windows\Wallpaper-Master-Portal.AssemblyInfoInputs.cache
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\obj\Release\net7.0-windows\Wallpaper-Master-Portal.AssemblyInfo.cs
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\obj\Release\net7.0-windows\Wallpaper-Master-Portal.csproj.CoreCompileInputs.cache
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\obj\Release\net7.0-windows\Wallpaper-Master-Portal.dll
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\obj\Release\net7.0-windows\refint\Wallpaper-Master-Portal.dll
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\obj\Release\net7.0-windows\Wallpaper-Master-Portal.pdb
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\obj\Release\net7.0-windows\Wallpaper-Master-Portal.genruntimeconfig.cache
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\obj\Release\net7.0-windows\ref\Wallpaper-Master-Portal.dll

@@ -1,0 +1,65 @@
+========================================================================================================
+Failed to open configuration file! Writing now!
+Writing default data to json file
+Setting default values for config vars
+3
+Successfully changed Wallpaper to: 
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Adventdalen, Norway 1920x1080.jpg
+JSON error: [json.exception.type_error.316] invalid UTF-8 byte at index 66: 0x2C
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Plouzané, France 1920x1080.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Adventdalen, Norway 1920x1080.jpg
+JSON error: [json.exception.type_error.316] invalid UTF-8 byte at index 66: 0x2C
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Plouzané, France 1920x1080.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Adventdalen, Norway 1920x1080.jpg
+JSON error: [json.exception.type_error.316] invalid UTF-8 byte at index 66: 0x2C
+========================================================================================================
+Failed to load configuration data as json. Loading default configuration
+Writing default data to json file
+Setting default values for config vars
+3
+Successfully changed Wallpaper to: 
+========================================================================================================
+Failed to open configuration file! Writing now!
+Writing default data to json file
+Setting default values for config vars
+2
+Successfully changed Wallpaper to: 
+========================================================================================================
+Failed to open configuration file! Writing now!
+Writing default data to json file
+Setting default values for config vars
+2
+Successfully changed Wallpaper to: 
+========================================================================================================
+Failed to open configuration file! Writing now!
+Writing default data to json file
+Setting default values for config vars
+2
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Adventdalen, Norway 1920x1080.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
+========================================================================================================
+Failed to open configuration file! Writing now!
+Writing default data to json file
+Setting default values for config vars
+3
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Adventdalen, Norway 1920x1080.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Plouzané, France 1920x1080.jpg
+JSON error: [json.exception.type_error.316] invalid UTF-8 byte at index 66: 0x2C
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Adventdalen, Norway 1920x1080.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Plouzané, France 1920x1080.jpg
+JSON error: [json.exception.type_error.316] invalid UTF-8 byte at index 66: 0x2C
+========================================================================================================
+Failed to load configuration data as json. Loading default configuration
+Writing default data to json file
+Setting default values for config vars
+3
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\3bc9b00fdf1a342d667625fd88400bb20dc359db30ba129825c8487447d5c6a4.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Adventdalen, Norway 1920x1080.jpg
+Successfully changed Wallpaper to: C:\Users\Ishaan\Pictures\Saved Pictures\problemWallpapers\Plouzané, France 1920x1080.jpg
+JSON error: [json.exception.type_error.316] invalid UTF-8 byte at index 66: 0x2C

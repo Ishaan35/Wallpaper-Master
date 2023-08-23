@@ -1,0 +1,5 @@
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\bin\Release\net7.0-windows\publish\Wallpaper-Master-Portal.exe
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\bin\Release\net7.0-windows\publish\Wallpaper-Master-Portal.dll
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\bin\Release\net7.0-windows\publish\Wallpaper-Master-Portal.deps.json
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\bin\Release\net7.0-windows\publish\Wallpaper-Master-Portal.runtimeconfig.json
+C:\Users\Ishaan\Downloads\Wallpaper-Master\Wallpaper-Master-Portal\bin\Release\net7.0-windows\publish\Wallpaper-Master-Portal.pdb
